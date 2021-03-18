@@ -1,0 +1,13 @@
+name: CitiBike_Location_Usage
+title: CitiBike_Location_Usage
+username:
+account: xiatianwu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3812753
+bundleId: 4362445
+url: https://xiatianwu.shinyapps.io/CitiBike_Location_Usage/
+when: 1616051742.27741
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R
